@@ -2,7 +2,7 @@ import requests
 import json
 import time
 from gpiozero import LED #Libray Used For GPIO Control On Raspberry Pi
-led = LED(2)
+led = LED(2) #Pin The LED Is On
 last = -1
 key = "" #Youtube API Key
 vidid= "dQw4w9WgXcQ" #ID For Youtube Video 

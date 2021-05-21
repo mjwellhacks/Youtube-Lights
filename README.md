@@ -1,2 +1,2 @@
-# Youtube-Lights
-Lights up lights when a youtube video gets a like with a raspberry pi
+# Youtube Lights
+Turn On Lights When Youtube Video Gets Likes
